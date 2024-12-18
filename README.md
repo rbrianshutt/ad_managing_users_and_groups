@@ -66,22 +66,78 @@ Manage users and groups using Active Directory.
 <br />
 <b>text</b>  
 <br/>
-![]()
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/add_to_group_developers.PNG)
 <br />
 <br />
 <b>text</b>
 <b>text</b>
 <br/>
 
-![](https://github.com/rbrianshutt/nessus/blob/main/images/vm_windows_update.PNG)
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/Python_developers_add_member.PNG)
 <br />
 <br />
 <b>text</b>
 <br/>
 
-![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus.scan_after_updates.PNG)
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/add_alex_python_developers.PNG)
 
 <b>text</b>
+
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/Python_developers_add_member.PNG)
+<br />
+<br />
+<b>text</b>
+<br/>
+
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/alosha_remove_java.PNG)
+<br />
+<br />
+<b>text</b>
+<br/>
+
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/alosha_add_python_developers.PNG)
+<br />
+<br />
+<b>text</b>
+<br/>
+
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/group_policy_management.PNG)
+<br />
+<br />
+<b>text</b>
+<br/>
+
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/create_gpo_in_this_domain.PNG)
+<br />
+<br />
+<b>text</b>
+<br/>
+
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/new_wallpaper.PNG)
+<br />
+<br />
+<b>text</b>
+<br/>
+
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/edit_wallpaper.PNG)
+<br />
+<br />
+<b>text</b>
+<br/>
+
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/desktop_wallpaper_editor.PNG)
+<br />
+<br />
+<b>text</b>
+<br/>
+
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/enable_wallpaper.PNG)
+<br />
+<br />
+<b>text</b>
+<br/>
+
+
 <!--
  ```diff
 - text in red
