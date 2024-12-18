@@ -1,6 +1,6 @@
 <h1>Active Directory - Managing Users and Groups</h1>
 
-![](https://github.com/rbrianshutt/nessus/blob/main/images/NessusEssentials.jpg)
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/active-directory.png)
 
 <h2>Description</h2>
 Manage users and groups using Active Directory.  
