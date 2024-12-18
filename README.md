@@ -12,76 +12,76 @@ Manage users and groups using Active Directory.
 - <b>Installed and configured Active Directory</b>
 
 <br/>
-<b>Set up a basic scan in Nessus Essential</b>
+<b>text</b>
 <br/>
 <br/>
  
-![](https://github.com/rbrianshutt/nessus/blob/main/images/basic_network_scan.PNG)
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/adac.PNG)
 <br />
 <br />
-<b>Create a new scan.  Connect Nessus with host IP address: </b>
+<b>text</b>
 <br/>
 
-![](https://github.com/rbrianshutt/nessus/blob/main/images/new_scan_basic_network_scan.PNG)
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/new_user.PNG)
 <br />
 <br />
-<b>Initiate scan:</b>  
+<b>text</b>  
 <br/>
-![](https://github.com/rbrianshutt/nessus/blob/main/images/launch_scan_2.PNG)
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/create_user_alex.PNG)
 <br />
 <br />
-<b>Results for scan without credentials:</b>  
+<b>text</b>  
 <br/>
-![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_first_scan.PNG)
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/example(local)users.PNG)
 <br />
 <br />
-<b>Configure Nessus for credentials of host VM:</b> 
-<br/>
-
-![](https://github.com/rbrianshutt/nessus/blob/main/images/nessuss_configure_credentials.PNG)
-<br />
-<br />
-<b>Enable remote registry, set to Automatic:</b>   
-<br/>
-![](https://github.com/rbrianshutt/nessus/blob/main/images/vm_enable_remote_registry.PNG)
-<br />
-<br />
-<b>Perform another scan, but with credentials.  The results return more vulnerabilities.</b>  
-<br/>
-![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_with_credentials_scan.PNG)
-<br />
-<br />
-<b>An old version of Firefox was installed.</b>   
-<b>Performed another scan resulting in many vulnerabilities, particularly more Critical and High vulnerabilities. </b>
+<b>text</b> 
 <br/>
 
-![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_credentials%26oldfirefox.PNG)
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/failed_to_enable_account_alex.PNG)
 <br />
 <br />
-<b>Examine vulnerabilites:</b> 
+<b>text</b>   
+<br/>
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/enable_alex.PNG)
+<br />
+<br />
+<b>text</b>  
+<br/>
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/reset_password.PNG)
+<br />
+<br />
+<b>text</b>   
+<b>text</b>
 <br/>
 
-![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_credentials_vulnerabilities.PNG)
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/new_user.PNG)
 <br />
 <br />
-<b>Nessus offers high level remediations for vulnerabilites.  It is suggesting I update to a current version of Firefox. </b>  
+<b>text</b> 
 <br/>
-![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_remediations.PNG)
+
+![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/create_group.PNG)
 <br />
 <br />
-<b>Uninstall the deprecated Firefox browser</b>
-<b>Check for and install any updates in Windows.</b>
+<b>text</b>  
+<br/>
+![]()
+<br />
+<br />
+<b>text</b>
+<b>text</b>
 <br/>
 
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/vm_windows_update.PNG)
 <br />
 <br />
-<b>Perform scan after performing remediations.  The result is fewer vulnerabilities.</b>
+<b>text</b>
 <br/>
 
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus.scan_after_updates.PNG)
 
-<b>Whenever possible automate updates to remediate and reduce vulnerabilites.</b>
+<b>text</b>
 <!--
  ```diff
 - text in red
