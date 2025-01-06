@@ -35,7 +35,7 @@ Manage users and groups using Active Directory.
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/example(local)users.PNG)
 <br />
 <br />
-<b>If we try to right click and enable a newly created account we will get an error message.  We need to reset the password before an account can be enabled.</b> 
+<b>If we try to right click and enable a newly created account we will get an error message.  We need to set the password before an account can be enabled.</b> 
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/failed_to_enable_account_alex.PNG)
