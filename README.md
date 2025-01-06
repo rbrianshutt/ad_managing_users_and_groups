@@ -19,18 +19,18 @@ Manage users and groups using Active Directory.
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/adac.PNG)
 <br />
 <br />
-<b>Double click on the Users entry to see the list of users and groups.</b>
+<b>To add a new user, double click on the Users entry to see the list of users and groups.  Go to New under Users, then click User</b>
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/new_user.PNG)
 <br />
 <br />
-<b>text</b>  
+<b>Create a user named Alex with a username alex.  Fill in the mandatory fields indicated by the red star.</b>  
 <br/>
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/create_user_alex.PNG)
 <br />
 <br />
-<b>text</b>  
+<b>If we try to right click and enable a newly created account we will get an error message.  We need to reset the password before an account can be enabled.</b>  
 <br/>
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/example(local)users.PNG)
 <br />
