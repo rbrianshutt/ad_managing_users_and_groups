@@ -30,23 +30,23 @@ Manage users and groups using Active Directory.
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/create_user_alex.PNG)
 <br />
 <br />
-<b>If we try to right click and enable a newly created account we will get an error message.  We need to reset the password before an account can be enabled.</b>  
+<b>We have an account for Alex, but we need to enable it.</b>  
 <br/>
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/example(local)users.PNG)
 <br />
 <br />
-<b>text</b> 
+<b>If we try to right click and enable a newly created account we will get an error message.  We need to reset the password before an account can be enabled.</b> 
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/failed_to_enable_account_alex.PNG)
 <br />
 <br />
-<b>text</b>   
+<b>Set the password by clicking on Reset Password</b>   
 <br/>
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/enable_alex.PNG)
 <br />
 <br />
-<b>text</b>  
+<b>Enter and confirm the password.  Make sure the "User must change password at next logon" is checked.</b>  
 <br/>
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/reset_password.PNG)
 <br />
