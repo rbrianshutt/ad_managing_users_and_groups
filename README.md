@@ -12,14 +12,14 @@ Manage users and groups using Active Directory.
 - <b>Installed and configured Active Directory</b>
 
 <br/>
-<b>text</b>
+<b>Open the Active Directory Administrative Center (ADAC).  You pull it up by typing in "active directory" in the Windows search menu.</b>
 <br/>
 <br/>
  
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/adac.PNG)
 <br />
 <br />
-<b>text</b>
+<b>Double click on the Users entry to see the list of users and groups.</b>
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/new_user.PNG)
