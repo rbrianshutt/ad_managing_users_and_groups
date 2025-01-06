@@ -82,7 +82,7 @@ Manage users and groups using Active Directory.
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/add_alex_python_developers.PNG)
 
-<b>text</b>
+<b>We want to remove Alosha from the Java Developers group and add her to the Python Developers group.  We click on the Members Of link on the left.</b>
 <br /
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/alosha_remove_java.PNG)
 <br />
@@ -94,7 +94,6 @@ Manage users and groups using Active Directory.
 <br />
 <br />
 <b>text</b>
-<br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/group_policy_management.PNG)
 <br />
