@@ -64,12 +64,12 @@ Manage users and groups using Active Directory.
 <br />
 <br />
 <b>Right click on Python Developers and click "Add to another group".</b> 
+<br/>
 <b>We add this group to an existing group called Developers.</b>
 <br/>
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/add_to_group_developers.PNG)
 <br />
 <br />
-<b>text</b>
 <b>text</b>
 <br/>
 
