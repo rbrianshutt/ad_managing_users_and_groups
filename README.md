@@ -12,7 +12,7 @@ Manage users and groups using Active Directory.
 - <b>Installed and configured Active Directory</b>
 
 <br/>
-<b>Open the Active Directory Administrative Center (ADAC).  You pull it up by typing in "active directory" in the Windows search menu.</b>
+<b>Open the Active Directory Administrative Center (ADAC).  You can pull it up by typing in "active directory" in the Windows search menu.</b>
 <br/>
 <br/>
  
@@ -41,7 +41,7 @@ Manage users and groups using Active Directory.
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/failed_to_enable_account_alex.PNG)
 <br />
 <br />
-<b>Set the password by clicking on Reset Password</b>   
+<b>Set the password by clicking on Reset Password under Tasks on the right hand side of the screen.</b>   
 <br/>
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/enable_alex.PNG)
 <br />
