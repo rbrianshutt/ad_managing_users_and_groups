@@ -113,25 +113,25 @@ Manage users and groups using Active Directory.
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/new_wallpaper.PNG)
 <br />
 <br />
-<b>When that is created. Right click on New Wallpaper under Developer on the left.</b>
+<b>When that is created. Right click on New Wallpaper under Developer on the left.  Click Edit.</b>
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/edit_wallpaper.PNG)
 <br />
 <br />
-<b>text</b>
+<b>To set the wallpaper, go to the follwing: User Configuration > Policies > Administrative Templates > Desktop > Desktop.  Then find Desktop Wallpaper and double click.</b>
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/desktop_wallpaper_editor.PNG)
 <br />
 <br />
-<b>text</b>
+<b>Click Enable to set the value of the wallpaper.  We enter the path under Wallpaper Name - C:\Qwiklabs\wallpaper.jpg.  Click OK.</b>
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/enable_wallpaper.PNG)
 <br />
 <br />
-<b>text</b>
+<b></b>
 <br/>
 
 
