@@ -82,35 +82,38 @@ Manage users and groups using Active Directory.
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/add_alex_python_developers.PNG)
 
-<b>We want to remove Alosha from the Java Developers group and add her to the Python Developers group.  We click on the Members Of link on the left.</b>
-<br /
+<b>We want to remove Alosha from the Java Developers group and add her to the Python Developers group.  We click on the Member Of link on the left. Select Alosha and click Remove</b>
+<br/>
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/alosha_remove_java.PNG)
 <br />
 <br />
-<b>text</b>
+<b>Click Add and enter Python Developers under Enter object names to select.  Click OK and Alosha has been addded to Python Developers.</b>
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/alosha_add_python_developers.PNG)
 <br />
 <br />
-<b>text</b>
+<b>Managing Group Policies.</b>
+<br />
+<b>Pull up Group Policy Management by typing "group" in the Windows search menu.</b>
+<br />
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/group_policy_management.PNG)
 <br />
 <br />
-<b>text</b>
+<b>Group Policy Management. We will add a new policy to the Developers Organizational Unit (OU).  Find example.com domain tree on the left.  To create a new policy, right click on Developers and select the first option " Create a GPO in this domain and Link it here".  </b>
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/create_gpo_in_this_domain.PNG)
 <br />
 <br />
-<b>text</b>
+<b>We name the policy New Wallpaper.</b>
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/new_wallpaper.PNG)
 <br />
 <br />
-<b>text</b>
+<b>When that is created. Right click on New Wallpaper under Developer on the left.</b>
 <br/>
 
 ![](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/Google%20IT%20Support%20Active%20Directory/edit_wallpaper.PNG)
